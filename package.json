@@ -7,6 +7,9 @@
     "start": "vuepress dev",
     "build": "vuepress build"
   },
+  "devDependencies": {
+    "vuepress": "^0.9.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jumpalottahigh/vuepress-starter.git"
